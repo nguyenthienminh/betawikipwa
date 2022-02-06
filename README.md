@@ -1,5 +1,5 @@
 # PWAs I've made
-Those are made using HTML, CSS and JavaScript. Made with the tutorial from https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/ and https://www.w3schools.com/bootstrap4/default.asp
+Those are made using HTML, CSS and JavaScript. Made with the tutorial from https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/ and https://www.w3schools.com/bootstrap5/index.php
 
 **Link to the PWAs** -> https://nguyenthienminh.github.io/pwa/
  
