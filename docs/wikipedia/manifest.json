@@ -1,55 +1,55 @@
 {
-    "name": "BetaWiki PWA",
-    "short_name": "BetaWiki",
+    "name": "Wikipedia PWA",
+    "short_name": "Wikipedia",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#000000",
-    "theme_color": "#00a2e8",
+    "theme_color": "#000000",
     "orientation": "landscape",
     "icons": [
         {
-            "src": "/images/icon1.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon1.png",
+            "type": "image/png",
             "sizes": "72x72"
         },
         {
-            "src": "/images/icon2.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon2.png",
+            "type": "image/png",
             "sizes": "127x127"
         },
         {
-            "src": "/images/icon3.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon3.png",
+            "type": "image/png",
             "sizes": "182x182"
         },
         {
-            "src": "/images/icon4.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon4.png",
+            "type": "image/png",
             "sizes": "237x237"
         },
         {
-            "src": "/images/icon5.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon5.png",
+            "type": "image/png",
             "sizes": "292x292"
         },
         {
-            "src": "/images/icon6.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon6.png",
+            "type": "image/png",
             "sizes": "347x347"
         },
         {
-            "src": "/images/icon7.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon7.png",
+            "type": "image/png",
             "sizes": "402x402"
         },
         {
-            "src": "/images/icon8.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon8.png",
+            "type": "image/png",
             "sizes": "457x457"
         },
         {
-            "src": "/images/icon9.jpg",
-            "type": "image/jpg",
+            "src": "/images/icon9.png",
+            "type": "image/png",
             "sizes": "512x512"
         }
     ]
