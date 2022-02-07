@@ -1,6 +1,6 @@
 {
-    "name": "BetaWiki PWA",
-    "short_name": "BetaWiki",
+    "name": "Wikipedia PWA",
+    "short_name": "Wikipedia",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#000000",
