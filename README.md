@@ -10,3 +10,5 @@ Well, I use a full screen iframe on those websites, so it had the full experienc
 
 # But, why? Some of those websites are already PWAs.
 Yes, I could agree. Some of those are already PWAs, but those websites... I kind of remastered them a little bit. The original version(s) is basically bookmarks or looks like a native app, but the icons are pretty broken. So, the remastered version(s) is the same as the original... with a slight difference, which is I fixed all of those issues so it looks like a native app more.
+
+*Have a issue or have a request? Make an issue or a pull request!*
